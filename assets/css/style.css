@@ -3,12 +3,22 @@
     padding:0;
     box-sizing: border-box;
 }
-.toolbar {
+body{
 
+    background-color:#f6f8f9;
+}
+header{
+    background-color: white;
+    padding-bottom: 1%;
+}
+
+
+.toolbar {
+    font: serif;
     display: inline-block;
     text-align: center;
     vertical-align: middle;
-    padding-bottom: 4.5%;
+    
    
     
 }
@@ -16,7 +26,48 @@ img{
     display: inline-block;
     text-align: center;
     vertical-align: middle;
-    padding-bottom: 4.5%;
+    
     margin-left: 2%;
 
+}
+
+nav{
+    background-color: white; 
+    margin: auto;
+    width: 65%;
+    margin-top: 40px;
+    padding-top: 1%;
+    padding-left: 3%;
+    padding-bottom:0.5%;
+    
+    
+}
+
+.item1{
+
+    display: inline-block;
+    color: white;
+    font-size: 0.6em;
+    background-color: #47adf1;
+    padding: 0.9%;
+    border-radius: 11%;
+
+}
+
+.item2{
+    display: inline-block;
+    border:40px,solid;
+    font-size: 0.7em;
+    border-color: #1c77bd;
+    color:#d8dcdf;
+    border-radius: 11%;
+    margin-left: 2%;
+
+}
+.container{
+
+    background-color: white;
+    margin: auto;
+    width: 65%;
+    margin-top: 20px;
 }
