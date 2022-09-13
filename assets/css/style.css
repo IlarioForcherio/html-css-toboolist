@@ -74,6 +74,7 @@ nav{
     margin: auto;
     width: 65%;
     margin-top: 0.1%;
+    padding-bottom: 4%;
 }
 
 section{
@@ -95,6 +96,7 @@ h3::before{
 
 .check-item{
     display: inline;
+    font-family: Arial, Helvetica, sans-serif;
     
     
 }
@@ -117,7 +119,7 @@ h3::before{
     border-radius: 30%;
     color: white;
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 0.5em;
+    font-size: 0.6em;
     padding: 1%;
     vertical-align: center;
     padding-top: 0.5%;
@@ -129,6 +131,7 @@ h3::before{
 .x-item{
 
     display: inline;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 .x-item::before{
@@ -147,10 +150,65 @@ h3::before{
     border-radius: 30%;
     color: white;
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 0.5em;
+    font-size: 0.6em;
     padding: 1%;
     vertical-align: center;
     padding-top: 0.5%;
     padding-bottom: 0.5%;
     margin-left:0.5%;
 }
+
+.span-green{
+
+    background-color:#64c0aa;
+    border-radius: 30%;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 0.6em;
+    padding: 1%;
+    vertical-align: center;
+    padding-top: 0.5%;
+    padding-bottom: 0.5%;
+    margin-left:0.5%;
+}
+.span-orange{
+
+    background-color:#f29e33;
+    border-radius: 30%;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 0.6em;
+    padding: 1%;
+    vertical-align: center;
+    padding-top: 0.5%;
+    padding-bottom: 0.5%;
+    margin-left:0.5%;
+}
+.span-pink{
+
+    background-color:#d863a1;
+    border-radius: 30%;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 0.6em;
+    padding: 1%;
+    vertical-align: center;
+    padding-top: 0.5%;
+    padding-bottom: 0.5%;
+    margin-left:0.5%;
+}
+.span-green{
+
+    background-color:#b0c926;
+    border-radius: 30%;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 0.6em;
+    padding: 1%;
+    vertical-align: center;
+    padding-top: 0.5%;
+    padding-bottom: 0.5%;
+    margin-left:0.5%;
+}
+
+
